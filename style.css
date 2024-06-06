@@ -3,7 +3,7 @@
    margin: 0px;
 }
 :root{/*seletor raiz para variaveis*/
-    --cor-de-fundo: #6b7acf;
+    --cor-de-fundo: #899afa;
     --cor--da--letra:#67a3f1;
 }
 
@@ -12,5 +12,5 @@ body {/*seletor body*/
 }
 
 .cabecalho{
-    
+
 }
