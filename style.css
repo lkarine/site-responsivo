@@ -5,12 +5,11 @@
 :root{/*seletor raiz para variaveis*/
     --cor-de-fundo: #899afa;
     --cor--da--letra:#67a3f1;
+    --cor--branco:#ffffff;
 }
 
 body {/*seletor body*/
     background-color: var(--cor-de-fundo)
 }
 
-.cabecalho{
 
-}
