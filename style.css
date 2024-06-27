@@ -1,17 +1,17 @@
 @import url("style/header.css");
 
-*{ /*Seletor universal para resetar as bordas da página*/
-   padding: 0px;
-   margin: 0px;
-}
-:root{/*seletor raiz para variaveis*/
-    --cor-de-fundo: #899afa;
-    --cor--da--letra:#67a3f1;
-    --cor--branco:#ffffff;
+*{ /*Seletor universal para resetar as bordas da páginas*/
+    padding:0px;
+    margin:0px;
 }
 
-body {/*seletor body*/
-    background-color: var(--cor-de-fundo)
-}
 
+:root{/*seletor raiz para variáveis*/
+    --cor-de-fundo:#56d085;
+    --cor-da-letra:#ffd000;
+    --cor-branco:white;
+}
+body{/*seletor body*/
+    background-color:var(--cor-de-fundo)
+}
 
